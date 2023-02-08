@@ -1,0 +1,9 @@
+.bread-crumbs__nav-item {
+    margin: 0;
+    margin-left: 30px;
+}
+
+.bread-crumbs__nav-item:first-child {
+    list-style: none;
+    margin-left: 0;
+}

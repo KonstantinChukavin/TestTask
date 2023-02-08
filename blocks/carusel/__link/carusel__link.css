@@ -1,0 +1,7 @@
+.carusel__link {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    white-space: nowrap;
+}

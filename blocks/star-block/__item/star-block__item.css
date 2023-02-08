@@ -1,0 +1,8 @@
+.star-block__item {
+    cursor: pointer;
+}
+
+.star-block__item:hover {
+        opacity: 0.8;
+        transition-duration: .3s;
+}

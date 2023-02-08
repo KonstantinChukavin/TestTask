@@ -1,0 +1,7 @@
+.caresel__item {
+    margin: 0 20px;
+}
+
+.caresel__item:last-child {
+    overflow: hidden;
+}

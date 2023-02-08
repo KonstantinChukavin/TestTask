@@ -1,0 +1,7 @@
+.carusel__slider {
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}

@@ -1,0 +1,7 @@
+.carusel__slider-togs {
+    display: flex;
+    align-items: center;
+    background-color: #dad4cf;
+    border-radius: 50px;
+    margin-top: -40px;
+}

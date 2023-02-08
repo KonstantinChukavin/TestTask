@@ -1,0 +1,10 @@
+.carusel__items {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    list-style: none;
+    background-color: #f6f6f6;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 30px;
+}

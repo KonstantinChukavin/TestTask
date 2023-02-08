@@ -1,0 +1,11 @@
+.carusel__slider-img {
+    margin: 5px;
+    cursor: pointer;
+}
+
+
+.carusel__slider-img:hover {
+    opacity: 0.8;
+    transition-duration: .3s;
+}
+

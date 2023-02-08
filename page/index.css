@@ -1,0 +1,41 @@
+@import url(../vendor/normalize.css);
+/*__________________________________________________________*/
+@import url(../blocks/link/link.css);
+/*__________________________________________________________*/
+@import url(../blocks/body/body.css);
+/*__________________________________________________________*/
+@import url(../blocks/header/header.css);
+/*__________________________________________________________*/
+@import url(../blocks/input-submint/input-submint.css);
+/*__________________________________________________________*/
+@import url(../blocks/form/form.css);
+/*__________________________________________________________*/
+@import url(../blocks/input-search/input-search.css);
+/*__________________________________________________________*/
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_search/button_search.css);
+@import url(../blocks/button/_menu/button_menu.css);
+/*__________________________________________________________*/
+@import url(../blocks/image/image.css);
+@import url(../blocks/image/__btn-menu/image__btn-menu.css);
+/*__________________________________________________________*/
+@import url(../blocks/bread-crumbs/bread-crumbs.css);
+@import url(../blocks/bread-crumbs/__nav/bread-crumbs__nav.css);
+@import url(../blocks/bread-crumbs/__nav-item/bread-crumbs__nav-item.css);
+@import url(../blocks/bread-crumbs/__nav-link/bread-crumbs__nav-link.css);
+@import url(../blocks/bread-crumbs/__nav-link/_active/bread-crumbs__nav-link_active.css);
+/*__________________________________________________________*/
+@import url(../blocks/card-title/card-title.css);
+@import url(../blocks/card-title/__title/card-title__title.css);
+/*__________________________________________________________*/
+@import url(../blocks/star-block/star-block.css);
+@import url(../blocks/star-block/__item/star-block__item.css);
+/*__________________________________________________________*/
+@import url(../blocks/carusel/carusel.css);
+@import url(../blocks/carusel/__items/carusel__items.css);
+@import url(../blocks/carusel/__item/caresel__item.css);
+@import url(../blocks/carusel/__link/carusel__link.css);
+@import url(../blocks/carusel/__link/_active/carusel__link_active.css);
+@import url(../blocks/carusel/__slider/carusel__slider.css);
+@import url(../blocks/carusel/__slider-togs/carusel__slider-togs.css);
+@import url(../blocks/carusel/__slider-img/carusel__slider-img.css);
