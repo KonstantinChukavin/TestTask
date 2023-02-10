@@ -10,6 +10,8 @@
 /*__________________________________________________________*/
 @import url(../blocks/form/form.css);
 /*__________________________________________________________*/
+@import url(../blocks/title/title.css);
+/*__________________________________________________________*/
 @import url(../blocks/input-search/input-search.css);
 /*__________________________________________________________*/
 @import url(../blocks/button/button.css);
@@ -39,3 +41,28 @@
 @import url(../blocks/carusel/__slider/carusel__slider.css);
 @import url(../blocks/carusel/__slider-togs/carusel__slider-togs.css);
 @import url(../blocks/carusel/__slider-img/carusel__slider-img.css);
+/*__________________________________________________________*/
+@import url(../blocks/characteristics/characteristics.css);
+@import url(../blocks/characteristics/__title/characteristics__title.css);
+/*__________________________________________________________*/
+@import url(../blocks/subtitle/__strong/subtitle__strong.css);
+/*__________________________________________________________*/
+@import url(../blocks/sale-card/sale-card.css);
+@import url(../blocks/sale-card/__prices/sale-card__prices.css);
+@import url(../blocks/sale-card/__price-strong/sale-card__price-strong.css);
+@import url(../blocks/sale-card/__price-article/sale-card__price-article.css);
+@import url(../blocks/sale-card/__price-item/sale-card__price-item.css);
+@import url(../blocks/sale-card/__buttons/sale-card__buttons.css);
+@import url(../blocks/sale-card/__footer/sale-card__footer.css);
+@import url(../blocks/sale-card/__quantity-btn/sale-card__quantity-btn.css);
+@import url(../blocks/sale-card/__quantity/sale-card__quantity.css);
+@import url(../blocks/sale-card/__quantity-plus/sale-card__quantity-plus.css);
+@import url(../blocks/sale-card/__button-item/sale-card__button-item.css);
+@import url(../blocks/sale-card/__button-shop/sale-card__button-shop.css);
+@import url(../blocks/sale-card/__button-favorite/sale-card__button-favorite.css);
+@import url(../blocks/sale-card/__button-phone/sale-card__button-phone.css);
+@import url(../blocks/sale-card/__button-subtitle/sale-card__button-subtitle.css);
+@import url(../blocks/sale-card/__link/sale-card__link.css);
+@import url(../blocks/sale-card/__subtitle/sale-card__subtitle.css);
+/*__________________________________________________________*/
+@import url(../blocks/contacts/contacts.css);

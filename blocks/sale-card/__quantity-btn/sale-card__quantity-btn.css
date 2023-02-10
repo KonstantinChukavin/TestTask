@@ -1,0 +1,9 @@
+.sale-card__quantity-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    border: solid 2px #e9e9e9;
+    border-radius: 5px;
+}

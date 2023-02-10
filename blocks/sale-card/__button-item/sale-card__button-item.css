@@ -1,0 +1,10 @@
+.sale-card__button-item {
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}

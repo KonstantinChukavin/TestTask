@@ -1,0 +1,10 @@
+.sale-card__quantity {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: none;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}

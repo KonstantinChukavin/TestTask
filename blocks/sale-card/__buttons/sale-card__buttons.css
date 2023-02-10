@@ -1,0 +1,7 @@
+.sale-card__buttons {
+    margin: 0 20px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns:  1fr 1fr;
+    gap: 20PX;
+}
